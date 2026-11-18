@@ -14,4 +14,6 @@ Insights and recommendations are provided on following areas
 ### Data structure & initial checks
 
 Brew Heavens Data sructure as seen below consists of three table orders,customers and products
+!<img width="2983" height="1793" alt="brew_haven_powerbi_model_clean_highlighted" src="https://github.com/user-attachments/assets/61a08e54-f632-4fdc-ac8f-21f7c4f5f548" />
+
 
